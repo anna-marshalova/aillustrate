@@ -1,0 +1,8 @@
+torch
+diffusers==0.11.1
+transformers
+accelerate
+scipy
+ftfy
+safetensors
+python-dotenv

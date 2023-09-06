@@ -1,0 +1,4 @@
+{
+  "IMAGE_GENERATION_MODEL": "stabilityai/stable-diffusion-2-1",
+  "LANGUAGE_MODEL": "meta-llama/Llama-2-7b-chat-hf"
+}

@@ -1,8 +1,9 @@
-torch
-diffusers==0.11.1
-transformers
 accelerate
-scipy
+deep_translator
+diffusers==0.11.1
 ftfy
-safetensors
 python-dotenv
+safetensors
+scipy
+torch
+transformers

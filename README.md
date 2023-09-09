@@ -3,7 +3,7 @@
 ### Deployed Demo Link:
 t.me/Aillustratebot
 
-![Demo](data/demo_app_screen.png?raw=true "Telegram demo")
+![Demo](demo/demo_app_screen.png "Telegram demo")
 
 ## How To Deploy
 

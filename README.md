@@ -1,9 +1,15 @@
-# aillustrate
+# 🤖🎨aillustrate
+Aillustrate generates images for your texts.  
+No prompt engineering needed: just pass your text (up to 3874 tokens) and get an illustration for it!
+
 
 ### Deployed Demo Link:
 t.me/Aillustratebot
 
 ![Demo](demo/demo_app_screen.png "Telegram demo")
+
+## Pipeline
+![Pipeline](pipeline_scheme.png "Pipeline")
 
 ## How To Deploy
 
